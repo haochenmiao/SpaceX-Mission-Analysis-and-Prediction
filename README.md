@@ -106,6 +106,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 For more information, please reach out to:
 
 - **Haochen Miao**
-- [Email](mailto:your-email@example.com)
-- [GitHub](https://github.com/your-username)
+- [Email](mailto:haochen.miao2000@gmail.com)
+- [GitHub](https://github.com/haochenmiao)
 
